@@ -1,6 +1,6 @@
 ## Hi, I'm Devata Jadhav 👋
 
-<!--
+
 **Devata11/Devata11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here Aspiring Data Analyst with a passion for transforming data into actionable insights. I have 1 and half years of experience in Quality Control roles where I developed strong problem-solving skills, attention to detail.. Transitioning into data analytics, I've worked with Excel, Power BI, Tableau, and MySQL to create dynamic dashboards and perform data cleaning, analysis, and reporting. Are some ideas to get you started:
