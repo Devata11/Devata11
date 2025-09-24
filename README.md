@@ -54,5 +54,5 @@ Here are some highlights of my work in data analytics:
 I’m open to collaborating on **data analysis and visualization projects**.  
 Feel free to explore my repositories and reach out!  
 
-[![LinkedIn](www.linkedin.com/in/devata-jadhav-6a217932a)  
+[![LinkedIn](www.linkedin.com/in/devata-jadhav)  
 [![Email](https://img.shields.io/badge/Email-jadhavdevata97@gmail.com-red)](mailto:Devata11@gmail.com)
