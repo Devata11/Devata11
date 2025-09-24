@@ -50,12 +50,6 @@ Here are some highlights of my work in data analytics:
 
 ---
 
-## 📈 GitHub Stats
-[![Devata11 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devata11&show_icons=true&theme=radical)](https://github.com/Devata11)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devata11&layout=compact&theme=radical)](https://github.com/Devata11)  
-
----
-
 ## 👥 Let’s Connect
 I’m open to collaborating on **data analysis and visualization projects**.  
 Feel free to explore my repositories and reach out!  
